@@ -28,7 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'pry', '~> 0.12.0'
-gem 'pry-rails', '~> 0.37.0'
+gem 'pry-rails', '~> 0.3.7'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
