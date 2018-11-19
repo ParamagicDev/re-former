@@ -4,12 +4,12 @@ This is part of the Forms Project in The Odin Project’s Ruby on Rails Curricul
 [The Odin Projects Forms Lesson](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms)
 
 * Ruby version
-- 2.5.1
+  - 2.5.1
 
 * System dependencies
-- Rails 5.2.1
-- Bundler
-- Others noted in Gemfile
+  - Rails 5.2.1
+  - Bundler
+  - Others noted in Gemfile
 
 * Configuration
 
@@ -41,11 +41,11 @@ This is part of the Forms Project in The Odin Project’s Ruby on Rails Curricul
 
 * Restful / Resources Routes
 
-- users#edit
-- users#new
-- users#update
-- users#index
+  - users#edit
+  - users#new
+  - users#update
+  - users#index
 
 * Purpose
 
-- This is merely for educational purposes
+  - This is merely for educational purposes
