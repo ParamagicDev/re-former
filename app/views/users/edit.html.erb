@@ -1,4 +1,4 @@
-<h1>Edit User</h1>
+<%= render "errors" %>
 
 <%= form_for @user, method: "put" do |f| %>
   <%= f.label :name, "Username" %><br>
@@ -16,4 +16,3 @@
   <%= f.submit %>
 <% end %>
 
-<%= render "errors" %>
