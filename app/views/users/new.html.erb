@@ -1,2 +1,17 @@
-<h1>Users#new</h1>
-<p>Find me in app/views/users/new.html.erb</p>
+<h1>New Users</h1>
+
+<form accept-charset="utf-8" action="/users" method="post">
+  <label for="name">Username:</label><br> 
+  <input type="text" name="name"><br><br>
+
+  <label for="email">Email:</label><br>
+  <input type="text" name="email"><br><br>
+
+  <label for="password">Password:</label><br>
+  <input type="password" name="password"><br><br>
+
+  <label for="password_confirmation">Password Confirmation:</label><br>
+  <input type="password" name="password_confirmation"><br><br>
+
+  <input type="submit" value="Submit">
+</form>
